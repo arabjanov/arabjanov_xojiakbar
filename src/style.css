@@ -1,4 +1,4 @@
-body{
+/*body{
   margin:0;
   background:black;
 }
@@ -7,7 +7,7 @@ body{
   display:grid;
   grid-template-columns:repeat(5, 300px);
   gap:20px;
-  padding:40px;          /* tepadan va burchakdan uzoq */
+  padding:40px;        
 }
 
 .project{
@@ -16,7 +16,7 @@ body{
   background-size:cover;
   background-position:center;
   border-radius:12px;
-  border:2px solid #444; /* border */
+  border:2px solid #444;
   cursor:pointer;
   transition:0.3s;
 }
@@ -24,3 +24,4 @@ body{
 .project:hover{
   transform:scale(1.05);
 }
+*/
